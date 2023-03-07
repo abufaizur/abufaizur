@@ -10,7 +10,7 @@
 
 - Senior developer with over 14 years of professional in experience in all stages of SDLC (Software Development Life Cycle) involving studying of the user requirements,   
   analyzing, designing,coding, implementation, debugging, testing, deployment and documentation across diverse industries / work environments.
--
+
 - Expert in developing enterprise-level applications using Microsoft technologies (ASP.NET/VB.NET, MVC Framework, C#, ASP.NET WEB API ,.Net CORE, LINQ, WCF, WWF), SQL Server,Ajax, JQuery, AngularJS , Angular,Javascript Xamarin Forms   and .Net MAUI
 
 - 💬 Ask me about anything, I am happy to help.
